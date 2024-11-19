@@ -79,8 +79,8 @@ db/database_schema_ownership/users.rb @users-team
 ```
 
 You can check Rails 8 examples:
-- [SQL format](https://github.com/djezzzl/database_schema_ownership/tree/master/rails8-example/db/database_schema_ownership)
-- [Ruby format](https://github.com/djezzzl/database_schema_ownership/tree/master/rails8-sql-example/db/database_schema_ownership)
+- [Ruby format](https://github.com/djezzzl/database_schema_ownership/tree/master/rails8-example/db/database_schema_ownership)
+- [SQL format](https://github.com/djezzzl/database_schema_ownership/tree/master/rails8-sql-example/db/database_schema_ownership)
 
 ## Installation
 
